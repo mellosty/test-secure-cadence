@@ -15,3 +15,4 @@ pub contract Test {
       self.foos <- []
     }
 }
+ 
